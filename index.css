@@ -1,0 +1,72 @@
+/*CONTAINERS*/
+
+header, footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #997b48;
+    color: white;
+}
+
+main{
+    padding: 5% 25%;
+    background-color: #e2dcda;
+}
+
+/*ELEMENTS*/
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-bottom: 0%;
+}
+
+h2{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+ul{
+    padding-left: 10;
+}
+
+p, li{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+hr{
+    margin-top: 30px;
+}
+
+/*links*/
+a{
+    color: #a66946;
+}
+a:hover{
+    color: #997b48;
+}
+a:visited{
+    color: #A69646;
+}
+a:active{
+    color: #B07E4A;
+}
+
+/*CLASSES*/
+
+.curved-image{
+    border-radius: 10%;
+}
